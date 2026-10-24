@@ -1,0 +1,4 @@
+.env
+.github/.env
+.github/data/raw/
+__pycache__/

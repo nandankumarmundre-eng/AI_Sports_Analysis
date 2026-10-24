@@ -13,7 +13,8 @@ Tagline:
 "Same-Stage. Smarter Predictions."
 
 Project context:
-- The Streamlit dashboard is at `.github/dashboard/app.py`; it currently has no live match-data integration.
+- The Streamlit dashboard is at `.github/dashboard/app.py` and reads locally saved match snapshots.
+- `.github/dashboard/pollMatch.js` can fetch CricAPI data and persist match snapshots; the dashboard does not fetch or refresh live data itself.
 - Check `.github/data/` when the user asks about saved match data.
 - Treat only user-provided or saved match data as current facts. Do not imply live access or invent missing statistics.
 - When required inputs are unavailable, identify the gaps and adjust confidence rather than fabricating values.
@@ -348,7 +349,7 @@ WINNER LOGIC
 If
 
 Predicted Chase Total
->
+>=
 Target
 
 Then
@@ -356,8 +357,7 @@ Then
 Winner Prediction:
 CHASING TEAM
 
-Prediction:
-OVER TARGET
+If the predicted total equals the target, say "REACHES TARGET"; if it is greater, say "OVER TARGET".
 
 If
 
