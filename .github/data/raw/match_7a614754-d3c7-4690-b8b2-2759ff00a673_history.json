@@ -1011,5 +1011,31 @@
         "wickets": 3
       }
     }
+  },
+  {
+    "fetchedAt": "2026-10-24T10:01:36.419Z",
+    "signature": "[\"78/5 (11.1)\",\"180/5 (20)\",\"India need 103 runs in 53 balls\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "78/5 (11.1)",
+    "t2": "New Zealand [NZ]",
+    "t2s": "180/5 (20)",
+    "status": "India need 103 runs in 53 balls",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
   }
 ]
