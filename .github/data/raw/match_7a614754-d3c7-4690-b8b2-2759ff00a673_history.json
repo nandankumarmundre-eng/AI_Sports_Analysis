@@ -389,5 +389,627 @@
         "wickets": 3
       }
     }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:10:40.433Z",
+    "signature": "[\"\",\"102/3 (13.4)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "102/3 (13.4)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:12:15.927Z",
+    "signature": "[\"\",\"110/3 (14.1)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "110/3 (14.1)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:12:47.566Z",
+    "signature": "[\"\",\"102/3 (13.4)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "102/3 (13.4)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:13:19.109Z",
+    "signature": "[\"\",\"112/3 (14.3)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "112/3 (14.3)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:15:57.223Z",
+    "signature": "[\"\",\"115/3 (15)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "115/3 (15)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:16:28.963Z",
+    "signature": "[\"\",\"112/3 (14.3)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "112/3 (14.3)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:17:00.598Z",
+    "signature": "[\"\",\"123/3 (15.2)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "123/3 (15.2)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:18:05.819Z",
+    "signature": "[\"\",\"115/3 (15)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "115/3 (15)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:18:37.273Z",
+    "signature": "[\"\",\"123/3 (15.2)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "123/3 (15.2)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:19:40.552Z",
+    "signature": "[\"\",\"133/3 (16)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "133/3 (16)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:20:43.834Z",
+    "signature": "[\"\",\"127/3 (15.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "127/3 (15.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:21:15.471Z",
+    "signature": "[\"\",\"133/3 (16)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "133/3 (16)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:22:18.763Z",
+    "signature": "[\"\",\"138/3 (16.2)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "138/3 (16.2)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:26:03.215Z",
+    "signature": "[\"\",\"145/3 (16.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "145/3 (16.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:26:34.861Z",
+    "signature": "[\"\",\"146/3 (17.1)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "146/3 (17.1)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:27:06.605Z",
+    "signature": "[\"\",\"145/3 (16.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "145/3 (16.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:27:38.220Z",
+    "signature": "[\"\",\"146/3 (17.1)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "146/3 (17.1)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:29:44.809Z",
+    "signature": "[\"\",\"152/3 (17.3)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "152/3 (17.3)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:31:19.629Z",
+    "signature": "[\"\",\"157/4 (18)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "157/4 (18)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:31:51.377Z",
+    "signature": "[\"\",\"156/3 (17.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "156/3 (17.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:33:57.837Z",
+    "signature": "[\"\",\"163/4 (18.2)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "163/4 (18.2)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:35:18.124Z",
+    "signature": "[\"\",\"165/5 (18.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "165/5 (18.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:35:49.625Z",
+    "signature": "[\"\",\"163/4 (18.2)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "163/4 (18.2)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:36:21.410Z",
+    "signature": "[\"\",\"165/5 (18.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "165/5 (18.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "fetchedAt": "2026-10-24T08:41:43.226Z",
+    "signature": "[\"\",\"176/5 (19.5)\",\"India opt to bowl\",\"live\"]",
+    "t1": "India [IND]",
+    "t1s": "",
+    "t2": "New Zealand [NZ]",
+    "t2s": "176/5 (19.5)",
+    "status": "India opt to bowl",
+    "ms": "live",
+    "benchmarkSamples": {
+      "10:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 10,
+        "observedOvers": "10.0",
+        "runs": 66,
+        "wickets": 3
+      },
+      "15:t2": {
+        "team": "New Zealand [NZ]",
+        "requestedOvers": 15,
+        "observedOvers": "15.0",
+        "runs": 115,
+        "wickets": 3
+      }
+    }
   }
 ]
